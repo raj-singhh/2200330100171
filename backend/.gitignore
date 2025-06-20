@@ -1,0 +1,28 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Optional cache files
+.cache/
+.next/
+.vite/
+dist/
+build/
+
+# OS-related files
+.DS_S_
